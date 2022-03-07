@@ -1,0 +1,16 @@
+body{
+
+    background-color: aquamarine;
+ 
+}
+h1{
+font-size: 200px;
+font-style: italic;
+}
+p{
+    font-size: 14px;
+}
+
+img{
+    float: left;
+}
